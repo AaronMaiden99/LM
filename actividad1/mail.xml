@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mail>
+<mail>
+    <destinatario>
+        <nombre>Juan Perez</nombre>
+        <mail>perez@juan.com</mail>
+    </destinatario>
+    <remitente>
+        <nombre>Antonio Pere</nombre>
+        <mail>antoñito_dinamita@msn.com</mail>
+    </remitente>
+    <asunto>Venta Chalet</asunto>
+    <texto>
+        <parrafo>Hola buenas</parrafo>
+    </texto>
+</mail>
