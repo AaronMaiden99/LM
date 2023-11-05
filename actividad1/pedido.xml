@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedido>
+<pedido>
+    <destinatario>Pedro Martin Martínez</destinatario>
+    <articulo>Samsung Galaxy Tab A8</articulo>
+    <direccion piso="7" letra="A">Calle Virgen de la Cruz 2</direccion>
+    <fecha dia="17" mes="10" año="2022"/>
+</pedido>
