@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alimentos>
+<alimentos>
+    <legumbres>
+        <alimento tipo="cocidos" calorias="1090">garbanzos</alimento>
+        <alimento tipo="estofados" calorias="690">lentejas</alimento>
+        <alimento tipo="pintas" calorias="285">alubias</alimento>
+        <alimento tipo="secos" calorias="346">guisantes</alimento>
+        <alimento tipo="rehogadas" calorias="100">habas</alimento>
+        <alimento tipo="fabada" calorias="1300">judias</alimento>
+    </legumbres>
+
+    <verduras>
+        <alimento tipo="blancos" calorias="15">esparragos</alimento>
+        <alimento tipo="asados" calorias="55">pimientos</alimento>
+        <alimento tipo="parrillas" calorias="28">berenjenas</alimento>
+        <alimento tipo="fritos" calorias="71">tomates</alimento>
+        <alimento tipo="fritas" calorias="234">patatas</alimento>
+        <alimento tipo="fresco" calorias="9">apio</alimento>
+    </verduras>
+
+    <pescados>
+        <alimento tipo="fritos" calorias="118">calamares</alimento>
+        <alimento tipo="en aceite" calorias="185">anchoas</alimento>
+        <alimento tipo="pancha" calorias="92">merluza</alimento>
+        <alimento tipo="fresca" calorias="145">sardinas</alimento>
+        <alimento tipo="en aceite" calorias="34">atun</alimento>
+        <alimento tipo="ahumado" calorias="234">salmon</alimento>
+    </pescados>
+
+    <aperitivos>
+        <alimento tipo="fritas" calorias="234">almendras</alimento>
+        <alimento tipo="rusa" calorias="121">ensaladilla</alimento>
+        <alimento tipo="caseras" calorias="123">croquetas</alimento>
+        <alimento tipo="rellenas" calorias="12">aceitunas</alimento>
+        <alimento tipo="chips" calorias="46">patatas</alimento>
+        <alimento tipo="cocidas" calorias="45">gambas</alimento>
+    </aperitivos>
+
+    <frutas>
+        <alimento tipo="fresco" calorias="45">aguacate</alimento>
+        <alimento tipo="fresco" calorias="67">platano</alimento>
+        <alimento tipo="fresco" calorias="743">cerezas</alimento>
+        <alimento tipo="fresco" calorias="87">piña</alimento>
+        <alimento tipo="fresco" calorias="653">pera</alimento>
+        <alimento tipo="fresco" calorias="345">kiwi</alimento>
+    </frutas>
+
+    <carnes>
+        <alimento tipo="escalope" calorias="142">ternera</alimento>
+        <alimento tipo="asado" calorias="136">cordero</alimento>
+        <alimento tipo="horno" calorias="164">cochinillo</alimento>
+        <alimento tipo="asado" calorias="176">cerdo</alimento>
+        <alimento tipo="parrilla" calorias="187">pollo</alimento>
+        <alimento tipo="asado" calorias="191">pato</alimento>
+    </carnes>
+
+    <bebidas>
+        <alimento tipo="ron" calorias="213">cubalibre</alimento>
+        <alimento tipo="negra" calorias="217">cerveza</alimento>
+        <alimento tipo="solo" calorias="254">whiski</alimento>
+        <alimento tipo="tinto" calorias="34">vino</alimento>
+        <alimento tipo="brut" calorias="65">cava</alimento>
+        <alimento tipo="con alcohol" calorias="77">sangria</alimento>
+    </bebidas>
+
+    <varios>
+        <alimento tipo="carne" calorias="76">raviolis</alimento>
+        <alimento tipo="pollo" calorias="543">canalones</alimento>
+        <alimento tipo="con leche" calorias="165">chocolate</alimento>
+        <alimento tipo="vainilla" calorias="88">helado</alimento>
+        <alimento tipo="basica" calorias="300">pizza</alimento>
+        <alimento tipo="blanco" calorias="130">pan</alimento>
+    </varios>
+</alimentos>
