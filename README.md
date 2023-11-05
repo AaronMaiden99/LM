@@ -1,2 +1,2 @@
 # LM
-Repo para Lenguajes de Marcas
+Repositorio para la asignatura Lenguajes de Marcas
